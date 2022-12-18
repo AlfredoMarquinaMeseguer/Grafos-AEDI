@@ -1,7 +1,6 @@
 #include <stdlib.h> // Funcion exit
 #include <string.h> // Funcion memset
 #include <iostream> // Variables cin y cout
-#include <list>
 #include <limits.h>
 #include <stdio.h> // Variables
 using namespace std;
